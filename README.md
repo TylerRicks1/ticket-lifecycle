@@ -40,8 +40,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     - Details: Customers are reporting they are getting a 404 error when browsing to online banking
   - Create Ticket
 <p>
-<img src="https://i.imgur.com/XKcI2k0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/GunDb85.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jxNLg7q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/P80fPxq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
@@ -54,7 +54,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   
   
 <p>
-<img src="https://i.imgur.com/u8z6r77.png" height="80%" width="80%" /> 
+<img src="https://i.imgur.com/U8LEFxV.png" height="80%" width="80%" /> 
 </p>
 
 
@@ -70,8 +70,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <p>
-<img src="https://i.imgur.com/u8z6r77.png" height="80%" width="80%" />
-<img src="https://i.imgur.com/QYWsEk5.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/Fts0LMN.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/BFbtNfF.png" height="80%" width="80%" />
 </p>
 
 <h3>Resolving the Issue</h3>
@@ -82,13 +82,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3> Resolution</h3>
      
 - Once the issue is resolved, head back to the ticket and update the server.
-  - Response text box:  Dan was able to find a solution. Ticket closed.
+  - Response text box:  issue has been resolved  Ticket closed.
   - Ticket Status: Resolved
 - Select Post Reply
 - Observe the ticket presenting "closed".
 
 <p align="center">
-<img src="https://i.imgur.com/bFyY66A.png" height="80%" width="80%" /> <img src="https://i.imgur.com/u8z6r77.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/6tpDbBo.png" height="80%" width="80%" /> <img src="https://i.imgur.com/Fts0LMN.png" height="80%" width="80%" />
 </p>
 
 Done.
